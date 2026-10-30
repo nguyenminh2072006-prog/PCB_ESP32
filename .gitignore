@@ -1,0 +1,9 @@
+# KiCad lock and personal files
+*.lck
+*.kicad_prl
+.history/
+history/
+
+# Backup files
+*-backups/
+*.bak
